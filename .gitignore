@@ -4,4 +4,4 @@ __pycache__
 logs/
 wandb/
 output_models/
-semi-reward-models/dataset/
+data_process/dataset/

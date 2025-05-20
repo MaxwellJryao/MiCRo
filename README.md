@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ## Experiments
 1. Create datasets.
 ```bash
-cd semi-reward-models/
+cd data_process/
 python create_pair_wise_data.py
 ```
 2. Start the training
