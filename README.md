@@ -1,5 +1,9 @@
 # 🚀 MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning
 
+Official Implementation of "MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning".
+
+![Framework](figures/main_figure.png)
+
 ## 📦 Environments Setup
 ```bash
 conda create -n micro python=3.10
