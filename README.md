@@ -2,7 +2,7 @@
 
 Official Implementation of "MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning".
 
-![Framework](figures/main_figure.png)
+![Framework](figures/main_figure.jpg)
 
 ## 📦 Environments Setup
 ```bash
